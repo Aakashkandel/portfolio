@@ -86,8 +86,8 @@ export default function Home() {
                         </div>
                     </div>
                     <div
-                        class=" overflow-hidden rounded-tl-full rounded-bl-full bg-yellow-500 xs:rounded-full xs:m-auto border-4 border-gray-200 lg:rounded-bl-none lg:w-auto lg:h-full xs:w-8/12  lg:rounded-tr-none lg:rounded-br-none ">
-                        <img class="m-auto lg:h-full lg:w-auto" src={ProfileImage} alt="" />
+                        class=" overflow-hidden rounded-tl-full rounded-bl-full lg:bg-transparent lg:border-none bg-yellow-600 xs:rounded-full xs:m-auto border-4  lg:rounded-bl-none lg:w-auto lg:h-full xs:w-8/12  lg:rounded-tr-none lg:rounded-br-none ">
+                        <img class=" h-60 m-auto md:h-72 lg:h-full lg:w-auto" src={ProfileImage} alt="" />
                     </div>
                 </div>
 

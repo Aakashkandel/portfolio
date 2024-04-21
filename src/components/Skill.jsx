@@ -1,5 +1,7 @@
 import React from 'react'
 import MernImage from './images/mern.png';
+import image1 from './images/git.png';
+import image2 from './images/responsive.png';
 
 export default function Skill() {
     return (
@@ -222,13 +224,13 @@ export default function Skill() {
                 <div class="grid grid-cols-2 gap-5 m-5 xs:grid-cols-1 xs:gap-4 lg:grid-cols-2 ">
                     <div class=" bg-yellow-100 px-16 mx-5 shadow-lg shadow-slate-300 py-2 rounded-2xl text-center ">
                         <div class="text-2xl font-bold xs:text lg:text-2xl">Git</div>
-                        <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src="image/git.png" alt="" /></div>
+                        <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src={image1} alt="" /></div>
                         <p class="font-semibold xs:text-sm lg:text-xl">Proficient in version control using Git,ensuring
                             collaborative and organized development workflows.</p>
                     </div>
                     <div class=" bg-green-100 px-16 mx-5 shadow-lg shadow-slate-300 py-2 rounded-2xl text-center ">
                         <div class="text-2xl font-bold xs:text-xl  lg:text-2xl ">Responsive Design</div>
-                        <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src="image/responsive.png" alt="" />
+                        <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src={image2} alt="" />
                         </div>
                         <p class="font-semibold lg:text-xl ">Skilled in creating websites that are responsive across various
                             devices and screen sizes.</p>
