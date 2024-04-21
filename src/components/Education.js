@@ -1,5 +1,6 @@
 import React from 'react'
-
+import Image1 from './images/namuna.png';
+import Image2 from './images/tribhuwan.png';
 export default function Education() {
   return (
     <>
@@ -31,7 +32,7 @@ export default function Education() {
                     </div>
                 </div>
                 <p class="xs:text-sm lg:text-xl ">Affiliated to Tribhuwan University</p>
-                <div><img class="w-2/12 m-auto" src="image/tribhuwan.png" alt=""/></div>
+                <div><img class="w-2/12 m-auto" src={Image2} alt=""/></div>
                 <p class="xs:text-sm font-medium lg:text-xl font-semibold text-gray-700 mt-2 ">Pursing Bachelor of Computer Application (BCA)</p>
                 <p class="xs:text-sm font-medium lg:text-xl font-semibold text-gray-700   ">Currently in the 5th Semester</p>
 
@@ -50,7 +51,7 @@ export default function Education() {
 
                     <h2 class="p-1   font-bold text-2xl  text-blue-950  m-auto xs:text-xl lg:text-2xl ">Namuna Science
                         and Management College</h2>
-                    <div><img class="w-3/12 m-auto" src="image/namuna.png" alt=""/></div>
+                    <div><img class="w-3/12 m-auto" src={Image1} alt=""/></div>
                     <p class="text-sm lg:text-xl text-gray-700 mt-8 ">Science Student</p>
                     <p class="text-sm lg:text-xl text-gray-700 ">Completed +2 Education</p>
 

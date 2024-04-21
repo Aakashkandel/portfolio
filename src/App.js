@@ -14,6 +14,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+    <div class="Area">
     <Header/>
     <Home/>
     <Skill/>
@@ -21,6 +22,7 @@ function App() {
     <Education/>
     <Contact/>
     <Footer/>
+    </div>
     
     </>
   );
