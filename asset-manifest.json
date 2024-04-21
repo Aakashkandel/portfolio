@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9dc8f0a.css",
-    "main.js": "/static/js/main.59ffd4de.js",
+    "main.css": "/static/css/main.35626965.css",
+    "main.js": "/static/js/main.b79d94b7.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/namuna.png": "/static/media/namuna.624c1d9076b641038fc5.png",
     "static/media/hero.png": "/static/media/hero.a16749a27ab580e4224f.png",
@@ -9,14 +9,16 @@
     "static/media/tribhuwan.png": "/static/media/tribhuwan.25b89c790d625939e771.png",
     "static/media/Aakash-Kandel-cv.pdf": "/static/media/Aakash-Kandel-cv.c5df1430b6255ec0799e.pdf",
     "static/media/aakashfooter.png": "/static/media/aakashfooter.aa1891c180617fbb45ea.png",
+    "static/media/git.png": "/static/media/git.85797bcd62b3256bba53.png",
+    "static/media/responsive.png": "/static/media/responsive.99fd85a2dcd28c06c05e.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.c9dc8f0a.css.map": "/static/css/main.c9dc8f0a.css.map",
-    "main.59ffd4de.js.map": "/static/js/main.59ffd4de.js.map",
+    "main.35626965.css.map": "/static/css/main.35626965.css.map",
+    "main.b79d94b7.js.map": "/static/js/main.b79d94b7.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9dc8f0a.css",
-    "static/js/main.59ffd4de.js"
+    "static/css/main.35626965.css",
+    "static/js/main.b79d94b7.js"
   ]
 }
