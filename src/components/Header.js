@@ -32,7 +32,7 @@ export default function Header() {
    
     
     return (
-        <div class="Area">
+        <div class="area">
            
 
             <nav  class="   text-black font-semibold z-10 navhero fixed w-full">
