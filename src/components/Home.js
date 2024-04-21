@@ -7,7 +7,7 @@ export default function Home() {
     return (
         <>
 
-            <div class="area" id="home">
+            <div class="" id="home">
 
 
 
