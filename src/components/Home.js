@@ -1,5 +1,5 @@
 import React from 'react'
-import './css/Global.css'
+
 import ProfileImage from './images/hero.png'
 import { ReactTyped } from "react-typed";
 
