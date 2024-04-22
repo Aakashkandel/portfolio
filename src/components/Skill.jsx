@@ -8,7 +8,7 @@ export default function Skill() {
         <>
             <div class="bg-gray-900 " id="skill">
                 <div class="bg-gray-200 rounded-br-full rounded-bl-full w-4/6 m-auto">
-                    <div class="  w-2/6 m-auto rounded-2xl font-bold text-3xl text-center text-blue-950 xs:text-sm lg:text-2xl">
+                    <div class="  w-2/6 m-auto rounded-2xl font-bold text-3xl text-center text-blue-950 text-sm lg:text-2xl">
                         My Top Skills</div>
                 </div>
                 <section class="py-12 text-gray-100 sm:py-12 lg:py-16">
@@ -219,17 +219,17 @@ export default function Skill() {
 
             <div>
                 <h2
-                    class="p-1  rounded-tr-full rounded-br-lg my-5  font-bold text-2xl  text-gray-200 bg-gray-900 w-1/6  xs:w-2/6 xs:text-sm lg:text-2xl">
+                    class="p-1  rounded-tr-full rounded-br-lg my-5  font-bold text-2xl  text-gray-200 bg-gray-900 w-1/6  w-2/6 text-sm lg:text-2xl">
                     Technologies</h2>
-                <div class="grid grid-cols-2 gap-5 m-5 xs:grid-cols-1 xs:gap-4 lg:grid-cols-2 ">
+                <div class="grid grid-cols-1 gap-5 m-5  gap-4 lg:grid-cols-2 ">
                     <div class=" bg-yellow-100 px-16 mx-5 shadow-lg shadow-slate-300 py-2 rounded-2xl text-center ">
-                        <div class="text-2xl font-bold xs:text lg:text-2xl">Git</div>
+                        <div class="text-2xl font-bold text lg:text-2xl">Git</div>
                         <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src={image1} alt="" /></div>
-                        <p class="font-semibold xs:text-sm lg:text-xl">Proficient in version control using Git,ensuring
+                        <p class="font-semibold text-sm lg:text-xl">Proficient in version control using Git,ensuring
                             collaborative and organized development workflows.</p>
                     </div>
                     <div class=" bg-green-100 px-16 mx-5 shadow-lg shadow-slate-300 py-2 rounded-2xl text-center ">
-                        <div class="text-2xl font-bold xs:text-xl  lg:text-2xl ">Responsive Design</div>
+                        <div class="text-2xl font-bold text-xl  lg:text-2xl ">Responsive Design</div>
                         <div class="text-6xl text-blue-600"><img class="w-20 m-auto p-1" src={image2} alt="" />
                         </div>
                         <p class="font-semibold lg:text-xl ">Skilled in creating websites that are responsive across various

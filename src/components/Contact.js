@@ -30,7 +30,7 @@ export default function Contact() {
   <ToastContainer/>
 
 <h2 id="contact"
-        class="p-1  rounded-tr-full rounded-br-lg my-5  font-semibold text-2xl  text-gray-200 bg-gray-900 w-1/6  xs:w-2/6 xs:text-sm lg:text-2xl">
+        class="p-1  rounded-tr-full rounded-br-lg my-5  font-semibold text-2xl  text-gray-200 bg-gray-900 w-1/6  w-2/6 text-sm lg:text-2xl">
         Contact</h2>
 
     <div 
