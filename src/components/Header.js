@@ -32,10 +32,10 @@ export default function Header() {
    
     
     return (
-        <div class="overflow:hidden">
+        <div class="">
            
 
-            <nav  class="   text-black font-semibold z-10 navhero fixed w-full">
+            <nav  class="   text-black font-semibold z-10 navhero fixed w-full ">
             <div class="flex justify-between items-center lg:hidden navhero1 px-2">
                 <div>
                     <li

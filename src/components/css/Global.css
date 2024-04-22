@@ -49,15 +49,13 @@ color: blue;
 
 
 
-.area{
-    background: #050a67;  
-    background: -webkit-linear-gradient(to left, #71085b, rgb(4, 8, 82));  
+.area {
+    background: -webkit-linear-gradient(to left, #6d0657, rgb(2, 5, 64));  
+    background: linear-gradient(to left, #660952, rgb(3, 8, 91)); /* Standard syntax */
     width: 100%;
-    
     overflow: hidden;
-    
-   
-}
+  }
+  
 
 .circles{
     position: absolute;
